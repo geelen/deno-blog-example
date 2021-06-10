@@ -1,6 +1,6 @@
-title: Your Blog Name
-description: I am writing about my experiences as a naval navel-gazer.
+title: "Glen's Deno Blog"
+description: "Deno's pretty cool, I guess. Trying this out"
 author:
-  name: Your Name Here,
-  email: youremailaddress@example.com,
-  url: https://example.com/about-me/
+  name: Glen Maddern,
+  email: glen@glenmaddern.com,
+  url: https://glenmaddern.com
